@@ -13,22 +13,6 @@ This project analyses 1,000 supermarket transactions across three branches (Cair
 - Do branches, product lines, or payment methods differ significantly?
 - Can we reliably forecast daily sales one week ahead?
 
-
-## Repository Structure
-
-```
-supermarket-sales/
-│
-├── data/
-│   └── SuperMarketAnalysis.csv       # Raw dataset (from Kaggle)
-│
-├── Project_Supermarket_Sales_Eng.ipynb  # Main analysis notebook
-│
-├── requirements.txt                  # Python dependencies
-├── README.md                         # This file
-└── .gitignore                        # Files to exclude from Git
-```
-
 ## Analysis Pipeline
 
 ### 1. Data Understanding & Preparation
