@@ -6,7 +6,7 @@ A complete end-to-end data analysis project covering exploratory data analysis (
 
 ## Project Overview
 
-This project analyses **1,000 supermarket transactions** across three branches (Cairo, Alex, Giza) to uncover what drives sales and forecast future revenue.
+This project analyses 1,000 supermarket transactions across three branches (Cairo, Alex, Giza) to uncover what drives sales and forecast future revenue.
 
 **Key questions answered:**
 - Which factors have the strongest impact on sales?
@@ -69,10 +69,10 @@ supermarket-sales/
 | Metric | Value |
 |--------|-------|
 | Best model R² (test) | 0.904 |
-| MAE (regression) | 58.54 $ |
-| RMSE (regression) | 78.92 $ |
+| MAE (regression) | 58.54 |
+| RMSE (regression) | 78.92 |
 | Time series MAPE | ~35% (typical for daily retail data) |
-| Top sales driver | Quantity (each +1 unit adds ~58$) |
+| Top sales driver | Quantity (each +1 unit adds ~58) |
 | Strongest weekly peak | Identified via day-of-week analysis |
 
 ## Business Insights
@@ -96,27 +96,9 @@ supermarket-sales/
 
 
 
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/supermarket-sales.git
-cd supermarket-sales
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Download the dataset
+### Download the dataset
 Dataset: [Supermarket Sales – Kaggle](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)  
 Place the CSV file in the `data/` folder as `SuperMarketAnalysis.csv`.
-
-### 4. Run the notebook
-```bash
-jupyter notebook Project_Supermarket_Sales_Eng.ipynb
-```
 
 ## Dataset
 
