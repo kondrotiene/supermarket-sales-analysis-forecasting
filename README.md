@@ -97,8 +97,8 @@ Place the CSV file in the `data/` folder as `SuperMarketAnalysis.csv`.
 
 Feel free to connect or leave feedback:
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/kondrotiene)
-- **LinkedIn:** [[linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)](https://www.linkedin.com/in/ingrida-kondrotiene/)
+- **GitHub:** (https://github.com/kondrotiene)
+- **LinkedIn:** (https://www.linkedin.com/in/ingrida-kondrotiene/)
 
 
 *This project was completed as a data analytics capstone. All analysis, interpretations, and visualisations are original work.*
